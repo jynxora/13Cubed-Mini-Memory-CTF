@@ -4,11 +4,11 @@
 
 ---
 
-##🔍 Challenge Overview
+## 🔍 Challenge Overview
 
-###🧠 Memory Dump File: memdump.mem  
-###🔧 Volatility Version: 3.2.26  
-###🖥️ OS Profile: Win10x64  
+### 🧠 Memory Dump File: memdump.mem  
+### 🔧 Volatility Version: 3.2.26  
+### 🖥️ OS Profile: Win10x64  
 
 ---
 
@@ -26,7 +26,7 @@
 
 ---
 
-##🧩 Other Observations  
+## 🧩 Other Observations  
 - Registry vs. System timestamp anomaly (+10s)  
 - Multiple zero-thread suspicious processes: `cmd.exe`, `MicrosoftEdge`, `svchost.exe`  
 - Timeline correlation suggests process hollowing or rootkit-level tampering
