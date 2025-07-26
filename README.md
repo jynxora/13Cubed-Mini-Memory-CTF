@@ -38,7 +38,11 @@ One of the strongest memory-based CTFs yet. Memory dump contained multiple signs
 
 ## READ ⤵️
 
-My Report [PDF]:
+My Report: [PDF](13CubedMemoryCTF.pdf)
 
-My Report [MD]:
+My Report: [MD](13CubedMemoryCTF.md) 
+
+Solution/Guide: [PDF](solutions_guide.pdf)
+
+Challenge: [YT Video](https://www.youtube.com/watch?v=JuEv8UleO0U&list=PLwHfQPh43gyqJmZxGP2Pbys1g9d0_DHiy)
 
